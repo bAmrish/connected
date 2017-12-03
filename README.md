@@ -1,5 +1,5 @@
 # Connected
-> A Simple application for brining people together
+> A Simple application for bringing people together
 
 
 Connected is a simple grails application that allows its users to send messages to each other. 
